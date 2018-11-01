@@ -1,0 +1,16 @@
+a{
+    color: grey;;  
+}
+a:hover{
+    color: black;
+}
+tbody{
+    font-weight: 100;
+}
+.transactions-list{
+    text-transform: capitalize;
+}
+
+td{
+    color: grey;
+}

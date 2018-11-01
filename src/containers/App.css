@@ -1,0 +1,42 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.App{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    justify-content: space-around;
+}
+h1{
+    text-transform: capitalize;
+    text-align: center;
+}
+.main-page{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+}
+.filters{
+    display: flex;
+    flex-direction: column;
+    text-transform: capitalize;
+   
+}
+.filter{
+    margin-top:10px;
+    padding: 10px;
+    background-color:#f1f1f1;
+}
+.filter-detail{
+    color: grey;
+}
+.transactions{
+    margin-left:20px;
+    padding-top: 20px;
+}
+hr{
+    width: 80%;
+}
+
+
